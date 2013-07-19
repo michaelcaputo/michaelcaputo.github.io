@@ -1,0 +1,37 @@
+<!-- jquery should be uncommented if your site does not run jquery otherwise delete these 2 lines -->
+<!-- <script type="text/javascript" src="https://www.publicinsightnetwork.org/source/js/jquery-1.8.1.min.js"></script> -->
+
+
+<h2 style="line-height:21px;">The Conversation on iconic buildings: Only the private sector will do</h2>   
+  				<p><i>Ground Level</i> asked: How does a community decide what to do with an old iconic building? We got back some responses from people who have wrestled with the question on a very personal basis (see some of the buildings to the right). What we heard from folks in places like Hokah, St. Paul and Little Falls is that you need a groundswell from the community to restore these old buildings. This also implies that government's role must be very limited and, yet, public assistance must help the cause.</p> 
+					<p>Take these comments: </p>
+
+					<ul>
+							<li><p>&#9658;"One thing I feel very strongly about after watching it happen numerous times is that private homes should rarely if ever be gifted to cities...I do feel there needs to be more financial incentive and/or funding to help private owners rehab old buildings." - <i>Mary Warner, Little Falls</i>.</p></li>
+							<li><p>&#9658;"Preserving the past does not always equate to saving money. Preservation / adaptation can be and will be expensive -- it is wise to be prepared about future costs." - <i>Marie Dranttel, Saint Peter</i>.</p></li>
+							<li><p>&#9658;"(Communities strike the balance between preserving history and saving money)Through private, individual initiative. Where government must be relied upon for funding, it's much more difficult and contentious." - <i>Tom Schroeder, St. Paul</i>.</p></li>
+							<li><p>&#9658;<b>Full responses can be read <a href="#PINresponses071313"> by clicking here</a>.</b></li>
+					</ul>
+
+			<script type="text/javascript" src="https://www.publicinsightnetwork.org/air2/js/pinform.js?uuid=3546bad02e8f"></script>
+				<div id="pin-query-3546bad02e8f"></div>
+
+					<a name="PINresponses071313"></a>
+				<div id="insight-feed"></div>
+					<p><a href="#" id="loadmore">Load More</a></p>
+
+					<script src="https://www.publicinsightnetwork.org/source/js/insights.js" type="text/javascript"></script>
+					<script type="text/javascript">// <![CDATA[
+					jQuery(document).ready(function() {
+					       PIN.Insights.widget({
+					           where:      'query_uuid:3546bad02e8f OR query_uuid:55922c413a17',  
+					           apiKey:     '840ffd8f30eabbe3294adce9d9b97c8d',       
+					           divId:      'insight-feed',             
+					           pageSize:   25,                         
+					           loadMore:   'loadmore',
+					           uri:         'https:www.publicinsightnetwork.org/air2/api/public/search',
+					           uriParams:   's=srs_date+desc'
+					       });
+					   });
+					// ]]></script>
+Status API Training Shop Blog About
